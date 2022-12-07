@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class UnicornStoreApplication {
+public class JayblinksStoreApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(UnicornStoreApplication.class, args);
+        SpringApplication.run(JayblinksStoreApplication.class, args);
     }
 
 }
